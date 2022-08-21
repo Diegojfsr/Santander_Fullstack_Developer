@@ -40,10 +40,12 @@
     saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
 
+
 <p dir="auto"> 
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos durante o 
   <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
   Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
  </em> 
+
 </p>
