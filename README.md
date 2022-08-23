@@ -47,5 +47,4 @@
   <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
   Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
  </em> 
-
 </p>
