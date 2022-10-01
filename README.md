@@ -36,6 +36,7 @@
 </ul>
 
 
+
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
