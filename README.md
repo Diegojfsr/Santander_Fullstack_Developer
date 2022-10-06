@@ -44,6 +44,7 @@
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
 
+
 <p dir="auto"> 
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos durante o 
