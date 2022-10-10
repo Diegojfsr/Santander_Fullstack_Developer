@@ -5,6 +5,7 @@
   Esse é o meu repositorio de projetos e codigos do Programa Santander Fullstack Bootcamp 2022! 
 </h3>
 
+
 <h5> 
   Repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp Fullstack Developer.
 </h5>
@@ -18,6 +19,7 @@
  <li> 
   Módulo 0 - Prepare-se para a Jornada.<a href="https://www.notion.so/diegojfsr/M-dulo-0-Prepare-se-para-a-Jornada-3f2babc31be74d6f946062569777d0e2">Acessar</a>
  </li>
+
  <li> 
   Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-6890331f78174607b5d998ce6a77431f"> Acessar </a>
  </li>
@@ -35,12 +37,11 @@
  </li>
 </ul>
 
-
-
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
-  saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+  saber. 
+E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
 
 
