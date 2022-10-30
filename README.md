@@ -20,7 +20,6 @@
   Módulo 0 - Prepare-se para a Jornada.<a href="https://www.notion.so/diegojfsr/M-dulo-0-Prepare-se-para-a-Jornada-3f2babc31be74d6f946062569777d0e2">Acessar</a>
  </li>
  
-
   
  <li> 
   Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-6890331f78174607b5d998ce6a77431f"> Acessar </a>
