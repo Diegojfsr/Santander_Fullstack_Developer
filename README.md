@@ -20,7 +20,6 @@
  </li>
  
  
- 
  <li> 
   Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-6890331f78174607b5d998ce6a77431f"> Acessar </a>
  </li>
