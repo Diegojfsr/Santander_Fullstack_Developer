@@ -15,7 +15,7 @@
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Módulo 0 - Prepare-se para a Jornada.<a href="https:/">Acessar</a></li>
+ <li> Módulo 0 - Prepare-se para a Jornada.<a href="https:/"> Acessar </a></li>
  <li> Módulo I - Conteúdo de Abertura. <a href="https://"> Acessar </a></li>
  <li> Módulo II - HTML/CSS3/JS. <a href="https://"> Acessar </a></li>
  <li> Módulo III - Angular. <a href="https://"> Acessar </a></li>
