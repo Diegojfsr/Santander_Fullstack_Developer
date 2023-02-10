@@ -1,9 +1,7 @@
 <h1> 
   Sejam bem-vindos!!! <br>
-</h1>
-<h3>
   Esse é o meu repositorio de projetos e codigos do Programa Santander Fullstack Bootcamp 2022! 
-</h3>
+</h1>
 
 
 <h4> 
