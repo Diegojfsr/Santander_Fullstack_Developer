@@ -13,7 +13,7 @@
 
 
 <h2> 🎯 Objetivo </h2>
-  Programa gratuito para formação e recrutamento de estagiários pela GFT. O programa explora uma trilha completa em Java para pessoas regularmente matriculadas no ensino superior e contém cursos, desafios práticos e mentorias exclusivas com experts da multinacional.
+  Programa gratuito para formação e recrutamento de estagiários pelo Santander. O programa explora uma trilha Fullstack com aulas, desafios de códigos, projetos e atividades.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
