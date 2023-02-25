@@ -8,7 +8,6 @@
 </h4>
 
 
-
 ![](https://github.com/Diegojfsr/Santander_Fullstack_Developer/blob/main/Imagens/Santander.jpg)
 
 
